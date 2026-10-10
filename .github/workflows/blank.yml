@@ -1,5 +1,5 @@
 name: RDP
-# rdp by AZBMA modifed
+# rdp by JoyWardanaa modifed
 on:
 workflow_dispatch:
 jobs:
